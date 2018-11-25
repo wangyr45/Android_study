@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/m109" />
+            <option value="$PROJECT_DIR$/m77m80" />
+            <option value="$PROJECT_DIR$/m88" />
+            <option value="$PROJECT_DIR$/m94" />
+            <option value="$PROJECT_DIR$/mp114" />
+            <option value="$PROJECT_DIR$/mp115" />
+            <option value="$PROJECT_DIR$/mp171" />
+            <option value="$PROJECT_DIR$/mp177" />
+            <option value="$PROJECT_DIR$/mp180" />
+            <option value="$PROJECT_DIR$/mp197" />
+            <option value="$PROJECT_DIR$/mp205" />
+            <option value="$PROJECT_DIR$/mp208" />
+            <option value="$PROJECT_DIR$/mp212" />
+            <option value="$PROJECT_DIR$/mp249" />
+            <option value="$PROJECT_DIR$/mp271" />
+            <option value="$PROJECT_DIR$/sqlitelogin" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

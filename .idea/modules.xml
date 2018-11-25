@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/UIApplication.iml" filepath="$PROJECT_DIR$/UIApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m109/m109.iml" filepath="$PROJECT_DIR$/m109/m109.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m77m80/m77m80.iml" filepath="$PROJECT_DIR$/m77m80/m77m80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m88/m88.iml" filepath="$PROJECT_DIR$/m88/m88.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m94/m94.iml" filepath="$PROJECT_DIR$/m94/m94.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mp114/mp114.iml" filepath="$PROJECT_DIR$/mp114/mp114.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mp115/mp115.iml" filepath="$PROJECT_DIR$/mp115/mp115.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mp171/mp171.iml" filepath="$PROJECT_DIR$/mp171/mp171.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mp177/mp177.iml" filepath="$PROJECT_DIR$/mp177/mp177.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mp180/mp180.iml" filepath="$PROJECT_DIR$/mp180/mp180.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mp197/mp197.iml" filepath="$PROJECT_DIR$/mp197/mp197.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mp205/mp205.iml" filepath="$PROJECT_DIR$/mp205/mp205.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mp208/mp208.iml" filepath="$PROJECT_DIR$/mp208/mp208.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mp212/mp212.iml" filepath="$PROJECT_DIR$/mp212/mp212.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mp249/mp249.iml" filepath="$PROJECT_DIR$/mp249/mp249.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mp271/mp271.iml" filepath="$PROJECT_DIR$/mp271/mp271.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlitelogin/sqlitelogin.iml" filepath="$PROJECT_DIR$/sqlitelogin/sqlitelogin.iml" />
+    </modules>
+  </component>
+</project>
